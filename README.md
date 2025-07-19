@@ -49,7 +49,7 @@ Set the **Storage** to your **microSD card**
 The Raspberry Pi Imager should look similar to:
 ![Raspberry Pi Imager settings 1](img3.png)
 
-3. After clicking the **NEXT** button, a prompt will appear asking if you want to apply OS customisation settings. Select **EDIT SETTINGS** and use the following settings:
+3. After clicking the **NEXT** button, a prompt will appear asking if you want to apply OS customization settings. Select **EDIT SETTINGS** and use the following settings:
 
    *You may change the **hostname** and **username/password** to your preference.*
 
@@ -84,7 +84,7 @@ The Raspberry Pi Imager should look similar to:
    The **Services** tab should look like:
 
    ![Raspberry Pi Imager Settings 3](img5.png)
-4. Once you save your settings, you will be prompted again asking if you would like to apply OS customisation settings. Select **YES** to begin the OS installation.
+4. Once you save your settings, you will be prompted again asking if you would like to apply OS customization settings. Select **YES** to begin the OS installation.
 
    *Warning: All existing data on the microSD card will be erased*
 
