@@ -83,7 +83,7 @@ The Raspberry Pi Imager should look similar to:
 
    The **Services** tab should look like:
 
-   ![Raspberry Pi Imager Settings 3](img4.png)
+   ![Raspberry Pi Imager Settings 3](img5.png)
 4. Once you save your settings, you will be prompted again asking if you would like to apply OS customisation settings. Select **YES** to begin the OS installation.
 
    *Warning: All existing data on the microSD card will be erased*
