@@ -31,7 +31,7 @@ This project demonstrates self-hosting a private home media streaming server usi
 - Mac (for configuration and file transfer)
 - Flash drive (contains the media we want on the server)
 
-![Project components](img1.jpg)
+![Project components](img1.JPG)
 
 ### Step 1: Flash Raspberry Pi OS Lite (64-bit)
 
@@ -92,7 +92,7 @@ The Raspberry Pi Imager should look similar to:
 
 1. Eject the SD card and insert it into the Pi.
 
-   ![Inserting microSD card into the Pi](img6.jpg)
+   ![Inserting microSD card into the Pi](img6.JPG)
 
    Then, power the Pi using the 27W power supply.
 
